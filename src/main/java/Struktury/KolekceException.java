@@ -1,0 +1,12 @@
+package Struktury;
+
+/**
+
+ * @author karel@simerda.cz
+ */
+public class KolekceException extends Exception {
+
+    public KolekceException() {
+    }
+
+}

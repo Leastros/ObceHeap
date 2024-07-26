@@ -1,0 +1,10 @@
+MereniVoda:      		id=531	 cas:2021-08-17T12:00,		 spotreba=10
+MereniElektrika: 		id=148	 cas:2021-08-12T07:00,		 spotreba=7 | 3
+MereniElektrika: 		id=919	 cas:2021-03-03T16:00,		 spotreba=28 | 0
+MereniElektrika: 		id=722	 cas:2021-11-17T11:00,		 spotreba=17 | 9
+MereniVoda:      		id=488	 cas:2021-06-09T18:00,		 spotreba=1
+MereniElektrika: 		id=114	 cas:2021-09-30T15:00,		 spotreba=25 | 4
+MereniElektrika: 		id=250	 cas:2021-03-12T15:00,		 spotreba=13 | 3
+MereniVoda:      		id=53	 cas:2021-06-15T03:00,		 spotreba=31
+MereniElektrika: 		id=996	 cas:2021-03-02T04:00,		 spotreba=15 | 6
+MereniElektrika: 		id=783	 cas:2021-01-19T09:00,		 spotreba=5 | 7
